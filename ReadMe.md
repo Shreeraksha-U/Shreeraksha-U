@@ -1,5 +1,4 @@
 ![Header](./github-header-banner.png)
-
 # 💫 About Me:
 🧗🏽‍♀️Currently working on a placement remainder app for college.<br>🌱Learning new things in Tech excites me~<br>👩🏽‍💻Long way to know + build 
 
